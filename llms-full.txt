@@ -1,0 +1,44 @@
+# Geotechnicalengineering — Kamloops
+
+> Geotechnical engineering services in Kamloops, Canada.
+
+## Services
+- [Anchors](https://kamloops.geotechnicalengineering.vip/anchors/)
+- [Atterberg Limits](https://kamloops.geotechnicalengineering.vip/atterberg-limits/)
+- [Cpt Test](https://kamloops.geotechnicalengineering.vip/cpt-test/)
+- [Excavation Monitoring](https://kamloops.geotechnicalengineering.vip/excavation-monitoring/)
+- [Excavations](https://kamloops.geotechnicalengineering.vip/excavations/)
+- [Footings](https://kamloops.geotechnicalengineering.vip/footings/)
+- [Foundations](https://kamloops.geotechnicalengineering.vip/foundations/)
+- [Geophysics](https://kamloops.geotechnicalengineering.vip/geophysics/)
+- [Grain Size](https://kamloops.geotechnicalengineering.vip/grain-size/)
+- [Ground Improvement](https://kamloops.geotechnicalengineering.vip/ground-improvement/)
+- [Grouting](https://kamloops.geotechnicalengineering.vip/grouting/)
+- [In Situ Permeability](https://kamloops.geotechnicalengineering.vip/in-situ-permeability/)
+- [Investigation](https://kamloops.geotechnicalengineering.vip/investigation/)
+- [Lab In Situ](https://kamloops.geotechnicalengineering.vip/lab-in-situ/)
+- [Laboratory](https://kamloops.geotechnicalengineering.vip/laboratory/)
+- [Liquefaction](https://kamloops.geotechnicalengineering.vip/liquefaction/)
+- [Masw](https://kamloops.geotechnicalengineering.vip/masw/)
+- [Mat Foundations](https://kamloops.geotechnicalengineering.vip/mat-foundations/)
+- [Piles](https://kamloops.geotechnicalengineering.vip/piles/)
+- [Rigid Pavement](https://kamloops.geotechnicalengineering.vip/rigid-pavement/)
+- [Road Geotechnics](https://kamloops.geotechnicalengineering.vip/road-geotechnics/)
+- [Sand Cone Density](https://kamloops.geotechnicalengineering.vip/sand-cone-density/)
+- [Seismic](https://kamloops.geotechnicalengineering.vip/seismic/)
+- [Seismic Isolation](https://kamloops.geotechnicalengineering.vip/seismic-isolation/)
+- [Seismic Refraction](https://kamloops.geotechnicalengineering.vip/seismic-refraction/)
+- [Slope Stability](https://kamloops.geotechnicalengineering.vip/slope-stability/)
+- [Slopes](https://kamloops.geotechnicalengineering.vip/slopes/)
+- [Soft Ground Tunnels](https://kamloops.geotechnicalengineering.vip/soft-ground-tunnels/)
+- [Spt Drilling](https://kamloops.geotechnicalengineering.vip/spt-drilling/)
+- [Stone Columns](https://kamloops.geotechnicalengineering.vip/stone-columns/)
+- [Test Pits](https://kamloops.geotechnicalengineering.vip/test-pits/)
+- [Vibrocompaction](https://kamloops.geotechnicalengineering.vip/vibrocompaction/)
+
+## Contact
+- Website: https://kamloops.geotechnicalengineering.vip/
+
+## About
+This site provides geotechnical engineering services in Kamloops, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
